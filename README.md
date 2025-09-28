@@ -9,6 +9,7 @@
 
 3 Start the development server
   npm run dev
+  
 4 Open http://localhost:5173
  (Vite) or http://localhost:3000
  (CRA) in your browser.
